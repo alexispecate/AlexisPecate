@@ -1,136 +1,18 @@
-# 🙋 Présentation
+# Présentation
 
+Bonjour à toutes et à tous,
 
-# 🚀 Expériences professionnelles
+Je m'appelle Alexis Pécate, j'ai 23 ans et je suis originaire d'Argentan, dans l'Orne. J'y ai grandi pendant 15 ans, bercé par la vie à la campagne, jusqu'à ce que l'achat marquant d'une Xbox 360 éveille ma passion pour l'informatique.
 
-## IT Apprentice 
-### Knorr-Bremse · Contrat en alternance
-**oct. 2024 - aujourd’hui ·** 6 mois  
-**Lisieux, Normandie, France ·** Hybride  
-Contrat d'apprentissage - Master Of Engineering - 2 ans
+Mon parcours a véritablement commencé en internat, où j'ai obtenu un BAC Pro Systèmes Numériques, option Réseaux Informatiques et Services Communicants, à Saint-Lô, puis à Condé-en-Normandie. Durant cette période, j'ai réalisé 22 semaines de Périodes de Formation en Milieu Professionnel, notamment à la Mairie, chez Darty, à l'Hôpital et au sein de l'entreprise Marelli.
 
-Projets principaux :
-- Remplacement de deux hyperviseurs (VMware ESXi)
-- Déploiement d'une baie de stockage reliée aux hyperviseurs (Dell PowerVault)
+Après l'obtention de mon baccalauréat, faute de trouver une entreprise pour poursuivre mes études, j'ai pris une année de césure. Durant cette période, j'ai obtenu mon permis de conduire et effectué une mission de service civique de 8 mois en tant qu'assistant numérique dans le centre social Edith Bonnem à Alençon.
 
-Administration réseau :
-- Gestion et maintenance des infrastructures réseau
-- Configuration et optimisation des équipements
-- Surveillance et analyse du trafic
+À la fin de mon service civique, la pandémie de COVID-19 est survenue, ce qui n'a pas facilité ma recherche d'entreprise. J'ai alors décidé de prendre une deuxième année de césure, au cours de laquelle j'ai intégré le programme Garantie Jeune de la Mission Locale de Caen.
+La pandémie de COVID-19 a marqué la fin de mon service civique et a compliqué ma recherche d'alternance. J'ai donc décidé de prendre une seconde année de césure et intégré le programme Garantie Jeune de la Mission Locale de Caen, ce qui m'a permis de me recentrer sur mes objectifs.
 
-Cybersécurité :
-- Mise en place de politiques de sécurité
-- Gestion et administration des pare-feu
-- Sensibilisation et formation des nouveaux employés
+En 2021, j'ai emménagé à Caen pour débuter un BTS Services Informatiques aux Organisations, option Solutions d'Infrastructure Systèmes et Réseaux, en alternance avec la Ligue de Football de Normandie à Lisieux.
 
-Support informatique :
-- Assistance aux utilisateurs (sur site et à distance)
-- Gestion des incidents via un système de tickets
-- Installation et configuration des équipements et logiciels
+Une fois mon BTS en poche, j'ai poursuivi avec une Licence Sciences, Technologies, Santé, option Sécurité des Réseaux et Cybersécurité, en alternance chez Knorr-Bremse.
 
-## IT Apprentice
-### Knorr-Bremse · Contrat en alternance
-**août 2023 - août 2024 ·** 1 an 1 mois  
-**Lisieux, Normandie, France ·** Hybride  
-Contrat d'apprentissage - Licence Sciences Technologies Santé (STS) - 1 an
-
-Projets principaux :
-- Uniformisation de l'authentification réseau via RADIUS (NPS) pour les pare-feu PfSense
-- Mise en place de la redondance pour l’ensemble des pare-feu (PfSense)
-- Implémentation d’une solution d’automatisation de la gestion des correctifs (GFI LanGuard)
-- Migration d’un système IP-PBX de ScopTEL vers FreePBX
-
-Administration réseau :
-- Gestion et maintenance des infrastructures réseau
-- Configuration et optimisation des équipements
-- Surveillance et analyse du trafic
-
-Cybersécurité :
-- Mise en place de politiques de sécurité
-- Gestion et administration des pare-feu
-- Sensibilisation et formation des nouveaux employés
-
-Support informatique :
-- Assistance aux utilisateurs (sur site et à distance)
-- Gestion des incidents via un système de tickets
-- Installation et configuration des équipements et logiciels
-
-
-## Apprenti Technicien support et déploiement
-### Ligue de Football de Normandie · Contrat en alternance
-**sept. 2021 - août 2023 ·** 2 ans  
-**Lisieux, Normandie, France ·** Hybride  
-Contrat d’apprentissage - Brevet de Technicien Supérieur (BTS) - 2 ans
-
-- Projet de logiciel pour l’inventaire du matériel informatique, développé avec WinDev
-
-- Installation, maintenance, support et dépannage informatique pour plus de 800 clubs, avec des déplacements dans les 5 districts normands
-
-
-## Assistant numérique
-### CENTRE SOCIAL EDITH BONNEM · Service Civique
-**déc. 2019 - juil. 2020 ·** 8 mois  
-**Alençon, Normandie, France ·** Hybride  
-Volontaire en mission de service civique - 8 mois 
-
-- Aide à l'accès numérique aux personnes bénéficiaires du centre social
-- Formations aux premiers usages
-- Communication : créations de flyer, modèles pour affiches, refonte du livret d'accueil
-
-
-## Stagiaire Technicien support réseau
-### Marelli · Stage
-**avr. 2019 - mai 2019 ·** 2 mois  
-**Argentan, Normandie, France ·** Sur site  
-Période de Formation en Milieu Professionnel (PFMP) - Baccalauréat Professionnel (BAC PRO) - 4 semaines
-
-- Projet de virtualisation d’ordinateurs physiques
-
-- Installation, maintenance, support et dépannage informatique du site d’Argentan
-
-
-## Stagiaire Technicien support réseau
-### Marelli · Stage
-#### janv. 2019 - févr. 2019 · 2 mois
-#### Argentan, Normandie, France · Sur site
-Période de Formation en Milieu Professionnel (PFMP) - Baccalauréat Professionnel (BAC PRO) - 4 semaines
-
-- Projet de rafraîchissement des équipements du réseau local
-
-- Installation, maintenance, support et dépannage informatique du site d’Argentan
-
-
-## Stagiaire Technicien de maintenance en informatique
-### Centre Hospitalier d'Argentan · Stage
-#### avr. 2018 - mai 2018 · 2 mois
-#### Argentan, Normandie, France · Sur site
-Période de Formation en Milieu Professionnel (PFMP) - Brevet d'Études Professionnelles (BEP) - 4 semaines 
-
-- Installation, maintenance, support et dépannage informatique dans les différents services du centre hospitalier
-
-## Stagiaire Technicien service clients à domicile
-### Darty · Stage
-#### nov. 2017 - déc. 2017 · 2 mois
-#### Argentan, Normandie, France · Sur site
-Période de Formation en Milieu Professionnel (PFMP) - Brevet d'Études Professionnelles (BEP) - 4 semaines 
-
-- Installation et dépannage informatique, multimédia et électroménager à domicile des clients
-
-
-## Stagiaire Technicien de maintenance en informatique
-### Mairie d'Argentan · Stage
-#### juin 2017 - juil. 2017 · 2 mois
-#### Argentan, Normandie, France · Sur site
-Période de Formation en Milieu Professionnel (PFMP) - Brevet d'Études Professionnelles (BEP) - 6 semaines 
-
-- Installation, maintenance, support et dépannage informatique dans les différents services de la mairie
-- Prise en main de WINDEV
-
-
-## Stagaire Technicien de maintenance en informatique
-### Mairie d'Argentan · Stage
-#### juin 2016 - juin 2016 · 1 mois
-#### Argentan, Normandie, France · Sur site
-Stage d'observation en milieu professionnel - Diplôme National du Brevet (DNB) - 1 semaine
-
-- Installation, maintenance, support et dépannage informatique dans les différents services de la mairie
+Aujourd'hui, titulaire de ma licence, je suis en Master of Engineering, option Systèmes et Réseaux. Mon objectif : atteindre un niveau BAC+5 et devenir un expert en management des systèmes d'information.
