@@ -23,3 +23,9 @@ Durant cette période, j'ai réalisé **22 semaines de Périodes de Formation en
 
 - 💼 [Expériences professionnelles](Curriculum-vitae/Expériences-professionnelles.md#expériences-professionnelles)
 - 📚 [Formations](Curriculum-vitae/Formations.md#formations)
+
+---
+
+![Alexis Pecate's GitHub stats](https://github-readme-stats-zeta-red-23.vercel.app/api?username=alexispecate&show_icons=true&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Alexis Pécate's Top Langs](https://github-readme-stats-zeta-red-23.vercel.app/api/top-langs/?username=alexispecate&theme=ambient_gradient&langs_count=20&layout=compact)
+![Alexis Pécate's WakaTime stats](https://github-readme-stats-zeta-red-23.vercel.app/api/wakatime?username=alexispecate&theme=ambient_gradient&layout=compact)
